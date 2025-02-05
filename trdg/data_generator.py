@@ -4,6 +4,7 @@ import random as rnd
 from PIL import Image, ImageFilter, ImageStat
 
 from trdg import computer_text_generator, background_generator, distorsion_generator
+from trdg.background_generator import  apply_random_straight_line_segments
 from trdg.utils import mask_to_bboxes, make_filename_valid
 
 try:
@@ -174,6 +175,9 @@ class FakeTextDataGenerator(object):
             background_img = background_generator.image(
                 background_height, background_width, image_dir
             )
+
+        background_img = apply_random_straight_line_segments(background_img)
+
         background_mask = Image.new(
             "RGB", (background_width, background_height), (0, 0, 0)
         )
