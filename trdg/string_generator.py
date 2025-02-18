@@ -112,6 +112,10 @@ def create_strings_randomly(
                 [chr(i) for i in range(19968, 40908)]
             )  # unicode range for common and uncommon kanji
             # https://stackoverflow.com/questions/19899554/unicode-range-for-japanese
+        elif lang=="mc":
+            pool += "".join(
+                [chr(i) for i in range(65, 68)]
+            )  # Unicode range of CHK characters
         else:
             pool += string.ascii_letters
     if num:
