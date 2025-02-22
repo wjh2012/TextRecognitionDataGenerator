@@ -486,7 +486,7 @@ def main():
                 label = strings[i]
                 if args.space_width == 0:
                     label = label.replace(" ", "")
-                f.write("{} {}\n".format(file_name, label))
+                f.write("{}\t{}\n".format(file_name, label))
 
 
 if __name__ == "__main__":
