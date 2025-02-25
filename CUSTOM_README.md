@@ -1,4 +1,7 @@
-python trdg/run.py -l mc -c 200 -w 6 -r -na 2 -rs -num -let -k 2 -rk -bl 1 -rbl -b 2 -d 3
+python trdg/run.py -l mc -c 20 -w 6 -r -na 2 -rs -num -let -k 0 -rk -bl 3 -rbl -b 2 -d 0 -m 0 -fi
+python trdg/run.py -l mc -c 20 -w 6 -r -na 2 -rs -num -let -k 0 -rk -bl 3 -rbl -b 2 -d 0 -m 0
+python trdg/run.py -l mc -c 20 -w 6 -r -na 2 -rs -num -let -k 0 -rk -bl 3 -rbl -b 2 -d 0 -m 1 -fi
+python trdg/run.py -l mc -c 20 -w 6 -r -na 2 -rs -num -let -k 0 -rk -bl 3 -rbl -b 2 -d 0 -m 1
 
 -l (language)
 -c (count)
