@@ -3,6 +3,8 @@ python trdg/run.py -l mc -c 20 -w 6 -r -na 2 -rs -num -let -k 0 -rk -bl 3 -rbl -
 python trdg/run.py -l mc -c 20 -w 6 -r -na 2 -rs -num -let -k 0 -rk -bl 3 -rbl -b 2 -d 0 -m 1 -fi
 python trdg/run.py -l mc -c 20 -w 6 -r -na 2 -rs -num -let -k 0 -rk -bl 3 -rbl -b 2 -d 0 -m 1
 
+python trdg/run.py -l en -c 20 -w 6 -r -na 2 -rs -num -let -k 0 -rk -bl 3 -rbl -b 2 -d 0 -m 0 -fd trdg/fonts/th
+
 -l (language)
 -c (count)
 -w (word count)
