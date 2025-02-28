@@ -1,102 +1,114 @@
 import sys
+import os
+import itertools
 from trdg import run
 
-val = 100
+val = 10
+base_output_dir = r"C:\Users\WONJANGHO\Desktop\datas\train"
 
-argv_sets = [
-    # train 1
+stw_options = [0, 1]
+m_options = [0, 1]
+sw_options = [1, 2]
+
+combinations = list(itertools.product(stw_options, m_options, sw_options))
+
+base_argv_sets = [
     [
         "run.py",
-        "-l", "en",
-        "-c", f"{256*val}",
+        "-c", f"{1*val}",
         "-w", "6",
         "-r",
+        "-t", "8",
+
         "-na", "2",
-        "-rs",
-        "-num",
-        "-let",
-        "-k", "0",
-        "-rk",
-        "-bl", "3",
-        "-rbl",
+        "-fd", "trdg/fonts/ko",
+        "-dt", "trdg/dicts/bank.txt",
         "-b", "2",
-        "-d", "0",
-        "-m", "0",
         "-fi",
-        "-fd", "trdg/fonts/th",
-        "-t", "8",
-        "--output_dir", r"C:\Users\WONJANGHO\Desktop\datas\train\5"
-    ],
-    # train 2
-    [
-        "run.py",
-        "-l", "en",
-        "-c", f"{256*val}",
-        "-w", "6",
-        "-r",
-        "-na", "2",
-        "-rs",
-        "-num",
-        "-let",
+
         "-k", "0",
         "-rk",
         "-bl", "3",
         "-rbl",
-        "-b", "2",
         "-d", "0",
-        "-m", "0",
-        "-fd", "trdg/fonts/th",
-        "-t", "8",
-        "--output_dir", r"C:\Users\WONJANGHO\Desktop\datas\train\6"
     ],
-    # train 3
     [
         "run.py",
-        "-l", "en",
-        "-c", f"{64*val}",
+        "-c", f"{1*val}",
         "-w", "6",
         "-r",
+        "-t", "8",
+
         "-na", "2",
-        "-rs",
-        "-num",
-        "-let",
-        "-k", "0",
-        "-rk",
-        "-bl", "3",
-        "-rbl",
+        "-fd", "trdg/fonts/ko",
+        "-dt", "trdg/dicts/bank2.txt",
         "-b", "2",
-        "-d", "0",
-        "-m", "1",
         "-fi",
-        "-fd", "trdg/fonts/th",
-        "-t", "8",
-        "--output_dir", r"C:\Users\WONJANGHO\Desktop\datas\train\7"
-    ],
-    # train 4
-    [
-        "run.py",
-        "-l", "en",
-        "-c", f"{64*val}",
-        "-w", "6",
-        "-r",
-        "-na", "2",
-        "-rs",
-        "-num",
-        "-let",
+
         "-k", "0",
         "-rk",
         "-bl", "3",
         "-rbl",
-        "-b", "2",
         "-d", "0",
-        "-m", "1",
-        "-fd", "trdg/fonts/th",
+    ],
+    [
+        "run.py",
+        "-c", f"{1*val}",
+        "-w", "6",
+        "-r",
         "-t", "8",
-        "--output_dir", r"C:\Users\WONJANGHO\Desktop\datas\train\8"
+
+        "-na", "2",
+        "-fd", "trdg/fonts/ko",
+        "-dt", "trdg/dicts/ko.txt",
+        "-l ko"
+        "-rs",
+        "-b", "2",
+        "-fi",
+
+        "-k", "0",
+        "-rk",
+        "-bl", "3",
+        "-rbl",
+        "-d", "0",
+    ],
+    [
+        "run.py",
+        "-c", f"{1*val}",
+        "-w", "6",
+        "-r",
+        "-t", "8",
+
+        "-na", "2",
+        "-fd", "trdg/fonts/ko",
+        "-dt", "trdg/dicts/ko.txt",
+        "-l ko"
+        "-rs",
+        "-b", "2",
+        "-fi",
+
+        "-k", "0",
+        "-rk",
+        "-bl", "3",
+        "-rbl",
+        "-d", "0",
     ],
 ]
 
 if __name__ == "__main__":
-    for argv in argv_sets:
-        sys.argv = argv
-        run.main()
+    run_count = 1
+
+    for base_argv in base_argv_sets:
+        for stw, m, sw in combinations:
+            argv = base_argv.copy()  # 기본 설정 복사
+            argv.extend(["-stw", str(stw)])
+            argv.extend(["-m", str(m)])
+            argv.extend(["-sw", str(sw)])
+
+            output_dir = os.path.join(base_output_dir, str(run_count))
+            argv.extend(["--output_dir", output_dir])
+
+            sys.argv = argv
+            run.main()
+
+            run_count += 1
