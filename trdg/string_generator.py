@@ -126,6 +126,7 @@ def create_strings_randomly(
         pool += "0123456789"
     if sym:
         pool += "!\"#$%&'()*+,-./:;?@[\\]^_`{|}~"
+        # pool += "-()"
 
     if lang == "cn":
         min_seq_len = 1
