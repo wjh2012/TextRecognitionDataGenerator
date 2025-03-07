@@ -6,6 +6,9 @@ python trdg/run.py -l mc -c 20 -w 6 -r -na 2 -rs -num -let -k 0 -rk -bl 3 -rbl -
 python trdg/run.py -c 20 -w 6 -r -na 2 -fd trdg/fonts/ko -dt trdg/dicts/ko.txt -l ko -rs -b 2 -fi -k 0 -rk -bl 3 -rbl -d 0 -stw 1 -m 0 -sw 2
 python trdg/run.py -c 10 -w 6 -r -na 2 -fd trdg/fonts/ko -dt trdg/dicts/money.txt -l ko -b 2 -fi -k 0 -rk -bl 3 -rbl -d 0 -stw 1 -m 0 -sw 2 
 
+python trdg/run.py -c 20 -w 6 -r -na 2 -fd trdg/fonts/ko -l ko -rs -num -b 2 -fi -k 0 -rk -bl 3 -rbl -d 0 -m 0 -sw 2 -cs 5
+
+python trdg/run.py -c 20 -w 6 -r -na 2 -fd trdg/fonts/ko -dt trdg/dicts/money.txt -b 2 -fi -k 0 -rk -bl 2 -rbl -d 0 -m 0 -rs -num
 
 -l (language)
 -c (count)

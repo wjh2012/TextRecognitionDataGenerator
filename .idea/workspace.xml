@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f2a2011-bd07-4e54-8048-73e10a2d86e9" name="Changes" comment="ko dict">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/dicts/money.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/dicts/num.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/TextRecognitionDataGenerator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TextRecognitionDataGenerator.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CUSTOM_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/CUSTOM_README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_run.py" beforeDir="false" afterPath="$PROJECT_DIR$/custom_run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trdg/dicts/ko.txt" beforeDir="false" afterPath="$PROJECT_DIR$/trdg/dicts/ko.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trdg/fonts/ko/NEXONLv1GothicRegular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trdg/dicts/money.txt" beforeDir="false" afterPath="$PROJECT_DIR$/trdg/dicts/money.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trdg/dicts/num.txt" beforeDir="false" afterPath="$PROJECT_DIR$/trdg/dicts/num.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trdg/string_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/trdg/string_generator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,12 +54,13 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/taehwa/prj/TextRecognitionDataGenerator/trdg/fonts/ko&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/WONJANGHO/Desktop/prj/TextRecognitionDataGenerator/trdg/fonts/ko&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -104,10 +102,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\WONJANGHO\Desktop\prj\TextRecognitionDataGenerator\trdg\fonts\ko" />
       <recent name="$PROJECT_DIR$/trdg/fonts/ko" />
       <recent name="$PROJECT_DIR$/trdg/dicts" />
       <recent name="C:\Users\WONJANGHO\Desktop\prj\TextRecognitionDataGenerator\trdg\dicts" />
-      <recent name="C:\Users\WONJANGHO\Desktop\prj\TextRecognitionDataGenerator\trdg\fonts\ko" />
     </key>
   </component>
   <component name="RunManager">
@@ -143,8 +141,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-7af238ef196b-JavaScript-PY-251.22821.82" />
-        <option value="bundled-python-sdk-dc3fa3e30f99-e966faab3e48-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.22821.82" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
       </set>
     </attachedChunks>
   </component>
@@ -172,6 +170,11 @@
       <workItem from="1740794315756" duration="11377000" />
       <workItem from="1740812964705" duration="13000" />
       <workItem from="1740911141964" duration="121000" />
+      <workItem from="1741054424545" duration="9506000" />
+      <workItem from="1741133018773" duration="763000" />
+      <workItem from="1741250142614" duration="3428000" />
+      <workItem from="1741334547285" duration="4527000" />
+      <workItem from="1741351726016" duration="60000" />
     </task>
     <task id="LOCAL-00002" summary="feat: update en_dict">
       <option name="closed" value="true" />
