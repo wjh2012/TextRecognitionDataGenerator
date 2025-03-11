@@ -4,366 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f2a2011-bd07-4e54-8048-73e10a2d86e9" name="Changes" comment="ko dict">
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/AGENCYB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/AGENCYR.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ANTQUAB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ANTQUABI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ANTQUAI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ARIALN.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ARIALNB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ARIALNBI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ARIALNI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ARIALUNI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ARLRDBD.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BASKVILL.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BAUHS93.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BELL.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BELLB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BELLI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BERNHC.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BKANT.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BOD_B.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BOD_BI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BOD_BLAI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BOD_BLAR.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BOD_CB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BOD_CBI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BOD_CI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BOD_CR.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BOD_I.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BOD_PSTC.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BOD_R.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BOOKOS.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BOOKOSB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BOOKOSBI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BOOKOSI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BRADHITC.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BRITANIC.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BRLNSB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BRLNSDB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BRLNSR.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/BRUSHSCI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/CALIFB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/CALIFI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/CALIFR.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/CALIST.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/CALISTB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/CALISTBI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/CALISTI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/CENSCBK.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/CENTURY.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/COOPBL.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/COPRGTB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/COPRGTL.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/Candara.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/Candarab.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/Candarai.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/Candaral.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/Candarali.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/Candaraz.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/CascadiaCode.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/CascadiaMono.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/DOSGothic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/DOSIyagiBoldface.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/DOSMyungjo.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/DOSMyungjo_edited.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/DOSPilgi.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/DOSSaemmul.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/DUBAI-BOLD.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/DUBAI-LIGHT.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/DUBAI-MEDIUM.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/DUBAI-REGULAR.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ELEPHNT.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ELEPHNTI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ENGR.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ERASBD.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ERASDEMI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ERASLGHT.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ERASMD.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/FORTE.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/FRABK.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/FRABKIT.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/FRADM.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/FRADMCN.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/FRADMIT.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/FRAHV.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/FRAHVIT.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/FRAMDCN.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/FREESCPT.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/FRSCRIPT.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/FTLTLT.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GARA.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GARABD.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GARAIT.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GIGI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GILBI___.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GILB____.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GILC____.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GILI____.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GILLUBCD.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GILSANUB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GIL_____.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GLECB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GLSNECB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GOTHIC.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GOTHICB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GOTHICBI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GOTHICI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GOUDOS.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GOUDOSB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/GOUDOSI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/Gabriola.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/Galmuri14.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/H2GPRM.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/H2GSRB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/H2GTRE.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/H2GTRM.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/H2HDRM.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/H2MJRE.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/H2MJSM.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/H2MKPB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/H2PORL.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/H2PORM.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/H2SA1M.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/HANBatang.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/HANBatangB.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/HANDotum.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/HANDotumB.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/HARLOWSI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/HATTEN.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/HMFMMUEX.TTC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/HMFMOLD.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/HMFMPYUN.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/HMKMAMI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/HMKMMAG.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/HMKMRHD.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/HYHWPEQ.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/HancomEQN.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ITCKRIST.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/KoPub Batang Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/KoPub Batang Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/KoPub Batang Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/KoPub Dotum Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/KoPub Dotum Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/KoPub Dotum Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/KoPubWorld Batang Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/KoPubWorld Batang Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/KoPubWorld Batang Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/KoPubWorld Dotum Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/KoPubWorld Dotum Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/KoPubWorld Dotum Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LBRITE.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LBRITED.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LBRITEDI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LBRITEI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LCALLIG.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LEELAWAD.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LEELAWDB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LFAX.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LFAXD.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LFAXDI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LFAXI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LG PC.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LG_Smart_UI-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LG_Smart_UI-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LG_Smart_UI-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LG_Smart_UI-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LHANDW.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LSANS.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LSANSD.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LSANSDI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LSANSI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LTYPE.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LTYPEB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LTYPEBO.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LTYPEO.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LeelUIsl.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LeelaUIb.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LeelawUI.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/LeferiPointWhiteOblique.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/MAGNETOB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/MAIAN.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/MEIRYO.TTC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/MEIRYOB.TTC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/MOD20.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/MSUIGHUB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/MSUIGHUR.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/MiraeroNormal.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/Nirmala.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/NirmalaB.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/NirmalaS.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/PAPYRUS.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/PARCHM.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/PERBI___.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/PERB____.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/PERI____.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/PERTIBD.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/PERTILI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/PER_____.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/POORICH.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/PRISTINA.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/RAGE.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/REFSAN.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ROCCB___.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ROCC____.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ROCK.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ROCKB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ROCKBI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ROCKEB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ROCKI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/SCHLBKB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/SCHLBKBI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/SCHLBKI.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/SCRIPTBL.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/STENCIL.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/Sam3KRFont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/SegUIVar.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/SimsunExtG.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/SitkaVF-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/SitkaVF.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/TCBI____.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/TCB_____.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/TCCB____.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/TCCEB.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/TCCM____.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/TCMI____.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/TCM_____.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/TEMPSITC.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/VINERITC.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/VIVALDII.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/VLADIMIR.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/arial.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/arialbd.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/arialbi.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ariali.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ariblk.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/bahnschrift.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/batang.ttc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/calibri.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/calibrib.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/calibrii.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/calibril.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/calibrili.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/calibriz.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/cambria.ttc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/cambriab.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/cambriai.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/cambriaz.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/comic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/comicbd.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/comici.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/comicz.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/consola.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/consolab.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/consolai.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/consolaz.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/constan.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/constanb.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/constani.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/constanz.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/corbel.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/corbelb.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/corbeli.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/corbell.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/corbelli.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/corbelz.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/cour.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/courbd.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/courbi.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/coure.fon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/couri.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ebrima.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ebrimabd.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/framd.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/framdit.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/gadugi.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/gadugib.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/georgia.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/georgiab.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/georgiai.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/georgiaz.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/gulim.ttc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/himalaya.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/hvgafix.fon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/hvgasys.fon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/impact.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/javatext.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/l_10646.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/lucon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/micross.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/mingliub.ttc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/mmrtext.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/mmrtextb.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/modern.fon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/monbaiti.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/msgothic.ttc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/msjh.ttc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/msjhbd.ttc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/msjhl.ttc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/msyh.ttc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/msyhbd.ttc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/msyhl.ttc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/msyi.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ntailu.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/ntailub.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/pala.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/palab.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/palabi.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/palai.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/phagspa.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/phagspab.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/roman.fon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/script.fon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/segoepr.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/segoeprb.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/segoesc.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/segoescb.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/segoeui.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/segoeuib.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/segoeuii.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/segoeuil.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/segoeuisl.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/segoeuiz.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/seguibl.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/seguibli.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/seguiemj.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/seguihis.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/seguili.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/seguisb.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/seguisbi.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/seguisli.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/seguisym.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/serife.fon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/simsun.ttc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/simsunb.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/smalle.fon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/sserife.fon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/sylfaen.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/tahoma.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/tahomabd.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/taile.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/taileb.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/times.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/timesbd.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/timesbi.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/timesi.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/trebuc.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/trebucbd.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/trebucbi.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/trebucit.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/verdana.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/verdanab.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/verdanai.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/verdanaz.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trdg/fonts/ko2/vga949.fon" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="2f2a2011-bd07-4e54-8048-73e10a2d86e9" name="Changes" comment="배경 색상 조정 및 생성 스크립트 수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CUSTOM_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/CUSTOM_README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_run.py" beforeDir="false" afterPath="$PROJECT_DIR$/custom_run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trdg/background_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/trdg/background_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trdg/dicts/money.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trdg/string_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/trdg/string_generator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -528,7 +171,7 @@
       <workItem from="1741334547285" duration="4527000" />
       <workItem from="1741351726016" duration="60000" />
       <workItem from="1741651598455" duration="19000" />
-      <workItem from="1741651829748" duration="6572000" />
+      <workItem from="1741651829748" duration="7446000" />
     </task>
     <task id="LOCAL-00002" summary="feat: update en_dict">
       <option name="closed" value="true" />
@@ -554,7 +197,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740718893327</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="gitignore ko2 fonts">
+      <option name="closed" value="true" />
+      <created>1741665485191</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741665485191</updated>
+    </task>
+    <task id="LOCAL-00006" summary="배경 색상 조정 및 생성 스크립트 수정">
+      <option name="closed" value="true" />
+      <created>1741665755153</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741665755153</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -576,7 +235,9 @@
     <MESSAGE value="feat: update en_dict" />
     <MESSAGE value="feat: 생성 스크립트 간소화" />
     <MESSAGE value="ko dict" />
-    <option name="LAST_COMMIT_MESSAGE" value="ko dict" />
+    <MESSAGE value="gitignore ko2 fonts" />
+    <MESSAGE value="배경 색상 조정 및 생성 스크립트 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="배경 색상 조정 및 생성 스크립트 수정" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TextRecognitionDataGenerator$custom_run.coverage" NAME="custom_run Coverage Results" MODIFIED="1741663107816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

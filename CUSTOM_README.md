@@ -1,7 +1,4 @@
-python trdg/run.py -c 10000 -w 6 -r -na 2 -fd trdg/fonts/ko -b 2 -fi -k 0 -rk -bl 3 -rbl -d 0 -m 0 -rs -num -t 8 -tc "#000000,#282828"
-python trdg/run.py -c 10000 -w 6 -r -na 2 -fd trdg/fonts/ko -b 2 -fi -k 0 -rk -bl 3 -rbl -d 0 -m 1 -rs -num -t 8 -tc "#000000,#282828"
-python trdg/run.py -c 10000 -w 6 -r -na 2 -fd trdg/fonts/ko -b 2 -fi -k 0 -rk -bl 3 -rbl -d 0 -m 0 -rs -num -t 8 -tc "#000000,#282828"
-python trdg/run.py -c 10000 -w 6 -r -na 2 -fd trdg/fonts/ko -b 2 -fi -k 0 -rk -bl 3 -rbl -d 0 -m 0 -rs -num -t 8 -tc "#000000,#282828"
+python trdg/run.py -c 10 -w 6 -r -na 2 -fd trdg/fonts/ko -b 2 -fi -k 0 -rk -bl 3 -rbl -d 0 -m 0 -rs -num -t 8 -tc "#000000,#282828" -cs -1
 
 -l (language)
 -c (count)
