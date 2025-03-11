@@ -1,14 +1,7 @@
-python trdg/run.py -l mc -c 20 -w 6 -r -na 2 -rs -num -let -k 0 -rk -bl 3 -rbl -b 2 -d 0 -m 0 -fi
-python trdg/run.py -l mc -c 20 -w 6 -r -na 2 -rs -num -let -k 0 -rk -bl 3 -rbl -b 2 -d 0 -m 0
-python trdg/run.py -l mc -c 20 -w 6 -r -na 2 -rs -num -let -k 0 -rk -bl 3 -rbl -b 2 -d 0 -m 1 -fi
-python trdg/run.py -l mc -c 20 -w 6 -r -na 2 -rs -num -let -k 0 -rk -bl 3 -rbl -b 2 -d 0 -m 1
-
-python trdg/run.py -c 20 -w 6 -r -na 2 -fd trdg/fonts/ko -dt trdg/dicts/ko.txt -l ko -rs -b 2 -fi -k 0 -rk -bl 3 -rbl -d 0 -stw 1 -m 0 -sw 2
-python trdg/run.py -c 10 -w 6 -r -na 2 -fd trdg/fonts/ko -dt trdg/dicts/money.txt -l ko -b 2 -fi -k 0 -rk -bl 3 -rbl -d 0 -stw 1 -m 0 -sw 2 
-
-python trdg/run.py -c 20 -w 6 -r -na 2 -fd trdg/fonts/ko -l ko -rs -num -b 2 -fi -k 0 -rk -bl 3 -rbl -d 0 -m 0 -sw 2 -cs 5
-
-python trdg/run.py -c 20 -w 6 -r -na 2 -fd trdg/fonts/ko -dt trdg/dicts/money.txt -b 2 -fi -k 0 -rk -bl 2 -rbl -d 0 -m 0 -rs -num
+python trdg/run.py -c 10000 -w 6 -r -na 2 -fd trdg/fonts/ko -b 2 -fi -k 0 -rk -bl 3 -rbl -d 0 -m 0 -rs -num -t 8 -tc "#000000,#282828"
+python trdg/run.py -c 10000 -w 6 -r -na 2 -fd trdg/fonts/ko -b 2 -fi -k 0 -rk -bl 3 -rbl -d 0 -m 1 -rs -num -t 8 -tc "#000000,#282828"
+python trdg/run.py -c 10000 -w 6 -r -na 2 -fd trdg/fonts/ko -b 2 -fi -k 0 -rk -bl 3 -rbl -d 0 -m 0 -rs -num -t 8 -tc "#000000,#282828"
+python trdg/run.py -c 10000 -w 6 -r -na 2 -fd trdg/fonts/ko -b 2 -fi -k 0 -rk -bl 3 -rbl -d 0 -m 0 -rs -num -t 8 -tc "#000000,#282828"
 
 -l (language)
 -c (count)
@@ -16,7 +9,7 @@ python trdg/run.py -c 20 -w 6 -r -na 2 -fd trdg/fonts/ko -dt trdg/dicts/money.tx
 -r (word count random)
 -na 2 (label.txt)
 -rs -num -let (random sequence number and letter)
--k (skew)
+-k (skew) 
 -rk (random skew)
 -bl 1(gaussian blur)
 -rbl (gaussian blur 0 to bl)

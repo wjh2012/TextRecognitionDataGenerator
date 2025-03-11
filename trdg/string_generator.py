@@ -123,7 +123,7 @@ def create_strings_randomly(
         else:
             pool += string.ascii_letters
     if num:
-        pool += "0123456789,.\\"
+        pool += "0123456789*,."
     if sym:
         pool += "!\"#$%&'()*+,-./:;?@[\\]^_`{|}~"
 

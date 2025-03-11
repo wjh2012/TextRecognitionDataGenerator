@@ -179,8 +179,8 @@ def apply_random_straight_line_segments(image: Image, num_lines: int = 3) -> Ima
             h, s, v = colorsys.rgb_to_hsv(mod_r/255.0, mod_g/255.0, mod_b/255.0)
 
             # 채도를 더욱 낮추고 명도를 높이기 위한 조절 값
-            sat_factor = 0.2       # 채도를 30%로 낮춤 (원래 50%였던 값을 더 낮춤)
-            brightness_increase = 0.5  # 명도를 0.2만큼 증가
+            sat_factor = 0.3       # 채도를 30%로 낮춤 (원래 50%였던 값을 더 낮춤)
+            brightness_increase = 0.05  # 명도를 0.2만큼 증가
 
             s = s * sat_factor
             v = min(1, v + brightness_increase)
