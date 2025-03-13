@@ -3,8 +3,8 @@ import sys
 import os
 from trdg import run
 
-val = 3000
-base_output_dir = "./out"
+val = 50000
+base_output_dir = r"C:\Users\WONJANGHO\Desktop\micr_source"
 
 m_options = [0, 1]
 sw_options = [1, 2]
@@ -21,11 +21,12 @@ base_argv_sets = [
         "-t", "8",
 
         "-na", "2",
-        "-fd", "trdg/fonts/ko2",
+        "-fd", "trdg/fonts/mc",
         "-b", "2",
         "-fi",
 
-        "-k", "0",
+        "-d", "3",
+        "-k", "1",
         "-rk",
         "-bl", "3",
         "-rbl",
